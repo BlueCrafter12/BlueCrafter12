@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluecrafter12&hide=contribs,prs&theme=dark)
 
 - 👋 Hi, I’m @BlueCrafter12
 - 👀 I’m interested in Web/Game development
