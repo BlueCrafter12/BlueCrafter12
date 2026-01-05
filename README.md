@@ -1,5 +1,5 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluecrafter12&hide=contribs,prs&theme=dark)
-----
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluecrafter12&hide=contribs,prs&theme=dark)
+--->
 [![My Skills](https://skillicons.dev/icons?i=cs,html,css,js&perline=4)](https://skillicons.dev)
 
 - 👋 Hi, I’m @BlueCrafter12
