@@ -6,7 +6,6 @@ welcome to my repo!
 
 - currently interested in web / game dev
 - pronouns: he / him
-- i like cats too
 
 :D
 <!---
