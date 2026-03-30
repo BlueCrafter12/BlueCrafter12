@@ -1,6 +1,6 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluecrafter12&hide=contribs,prs&theme=dark)
 --->
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,unity,cs,nextjs,npm&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,python,unity,nextjs,npm,netlify&perline=6)](https://skillicons.dev)
 
 welcome to my repo!
 
