@@ -2,7 +2,9 @@
 --->
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,python,unity,nextjs,nodejs,npm,netlify,arch&perline=6)](https://skillicons.dev)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bluecrafter12&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bluecrafter12&show_icons=true&locale=en&layout=compact&theme=ambient_gradient" alt="ovi" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=bluecrafter12&theme=ambient_gradient" alt="mystreak"/>
 
 welcome to my repo!
 
