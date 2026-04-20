@@ -1,11 +1,12 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluecrafter12&hide=contribs,prs&theme=dark)
 --->
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,python,unity,nextjs,nodejs,npm,netlify&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,python,unity,nextjs,nodejs,npm,netlify,arch&perline=6)](https://skillicons.dev)
 
 welcome to my repo!
 
 - currently interested in web / game dev
 - pronouns: he / him
+- i also like cats
 
 :D
 <!---
