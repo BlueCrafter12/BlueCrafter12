@@ -1,7 +1,7 @@
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bluecrafter12&hide=contribs,prs&theme=dark)
 --->
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,python,unity,nextjs,nodejs,npm,netlify,arch&perline=6)](https://skillicons.dev)
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,cs,python,unity,nextjs,nodejs,npm,netlify,arch&perline=6)](https://skillicons.dev)\n
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=bluecrafter12&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 welcome to my repo!
 
