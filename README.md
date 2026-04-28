@@ -14,7 +14,10 @@ welcome to my repo!
 
 :D
 
-https://techforpalestine.org/learn-more
+  <a href="https://techforpalestine.org/learn-more">
+    <img alt="Tech for Palestine" src="https://badge.techforpalestine.org/default">
+  </a>
+  
 <!---
 BlueCrafter12/BlueCrafter12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
