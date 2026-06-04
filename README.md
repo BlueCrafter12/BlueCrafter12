@@ -9,7 +9,7 @@
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=bluecrafter12&theme=ambient_gradient" alt="mystreak"/> -->
 
-welcome to my repo!
+welcome to my profile :D
 
 - currently interested in web / game dev
 - pronouns: he / him
